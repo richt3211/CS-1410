@@ -1,0 +1,2 @@
+# CS-1410
+The repository holds the entire codebase for my CS 1410 OOP course at Dixie State University. All of the code was written in python and features various projects all the way from a DNA sequencer to a Pong game. The folder's a little messy as most of the projects were experimental and not meant to be real software projects. I had a lot of fun in this course, and it was my first introduction to python, which I enjoyed working with. 
